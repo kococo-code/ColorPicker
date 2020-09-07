@@ -1,0 +1,18 @@
+#InputForm{
+    display :flex;
+    flex-direction : row;
+    width : 300px;
+    margin-right: auto;
+    margin-left : auto;
+    margin-top : 100px;
+}
+#InputForm input{
+    width : 200px;
+    height : 50px;
+    font-size : 32px;
+    border-radius : 5px;
+    border : 1px solid transparent;
+    padding : 1px;
+    text-align: center;
+    background : #eee;
+}
